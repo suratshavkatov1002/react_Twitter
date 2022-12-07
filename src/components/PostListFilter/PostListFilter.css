@@ -1,0 +1,20 @@
+.btn1{
+   border: none;
+   border: 5px solid rgb(104, 199, 236) ;
+   border-radius: 5px;
+   background-color: rgb(104, 199, 236);
+   padding-left: 10px;
+   padding-right: 10px;
+   margin-right: 10px
+}
+
+.btn2{
+   border: none;
+   border: 5px solid rgb(104, 199, 236) ;
+   border-radius: 5px;
+   background-color: rgb(104, 199, 236);
+   padding-left: 10px;
+   padding-right: 10px;
+ 
+}
+
